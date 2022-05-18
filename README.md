@@ -2,7 +2,7 @@
 
 1. Tener composer instalado en el computador 
 
-2. Tener composer instalado en el computador
+2. Tener php instalado en el computador
 
 3. Tener phpmyadmin como aplicacion de laragon
 
