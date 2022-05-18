@@ -1,3 +1,9 @@
+# Integrantes
+
+1. John Andersson Cardenas
+
+2. Maria Clara Estrada Duque
+
 # Pasos para ejecutar este proyecto
 
 1. Tener composer instalado en el computador 
