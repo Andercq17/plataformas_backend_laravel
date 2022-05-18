@@ -11,18 +11,25 @@
                         <div class="address-grid">
                             <h5>Calle 102 #76 C 13, Antioquia, Colombia, <br> Medellín.</h5>
                             <h5 class="mt-sm-5 mt-4">Everyday: <span> 8 AM - 11 PM</span></h5><br>
-                            <h5>John Andersson Cardenas Quirós - Creador</h5>
+                            <h5>John Andersson Cardenas Quirós - Maria Clara Estrada Duque</h5>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 mt-sm-0 mt-4">
                         <div class="address-grid">
                             <h5>Celular</h5>
-                            <h5 class="phone-number-text mt-2"><a href="tel:+573217475876">+573217475876</a></h5>
+                            <h5 class="phone-number-text mt-2">
+                                <a href="tel:+573217475876">+573217475876</a> <br> 
+                                <a href="tel:+573104410896">+573104410896</a>
+                            </h5>
                         </div>
                         <div class="address-grid mt-sm-5 mt-4">
                             <h5>Correo</h5>
-                            <h5 class="email-cont-text mt-1"> <a href="mailto:a.cardenas.quiros@gmail.com"
-                                    class="mail">a.cardenas.quiros@gmail.com  &&  john.cardenasq@upb.edu.co</a></h5>
+                            <h5 class="email-cont-text mt-1"> <a href="mailto:john.cardenasq@upb.edu.co"
+                                class="mail">john.cardenasq@upb.edu.co</a>
+                            </h5>
+                            <h5 class="email-cont-text mt-1"> <a href="mailto:maria.estradada@upb.edu.co"
+                                class="mail">maria.estradada@upb.edu.co</a>
+                            </h5>
                         </div>
                     </div>
                     <div class="col-lg-2 col-md-6 col-sm-5 footer-list-menu pl-lg-0 mt-lg-0 mt-sm-5 mt-4">

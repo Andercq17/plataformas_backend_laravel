@@ -1,19 +1,27 @@
-# Instalación laravel
+# Pasos para ejecutar este proyecto
 
-- [Actualizar kernel linux](https://docs.microsoft.com/es-es/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package)
+1. Tener composer instalado en el computador 
 
-- [Instalación terminal de windows](https://www.microsoft.com/es-co/p/windows-terminal/9n0dx20hk701?rtc=1&activetab=pivot:overviewtab)
+2. Tener composer instalado en el computador
 
-- [Windows WSL Docker](https://docs.docker.com/desktop/windows/wsl/)
+3. Tener phpmyadmin como aplicacion de laragon
 
-- [Errores comunes en la instalación](https://stackoverflow.com/questions/65312815/laravel-installation-sail-problem-23-failed-writing-body)
+4. Ejecutar laragon
 
-- [Pagina oficial laravel](https://laravel.com/docs/9.x)
+5. Abrir phmyadmin y crear una base de datos vacía
 
-# Material de apoyo
+6. clonar el repositorio en una carpeta vacía
 
-- [Pagina oficial composer](https://getcomposer.org/)
-- [Instalar composer en linux](https://www.osradar.com/how-to-install-composer-on-linux/)
-- [Vincular assets laravel](https://stackoverflow.com/questions/13433683/using-css-in-laravel-views)
-- [Enrutar enlaces](https://laravel.com/docs/9.x/routing)
-- [Creación de plantillas para vistas](https://laravel.com/docs/9.x/blade)
+7. Acceder a la carpeta del repositorio donde se encuentran los archivos
+
+8. Ejecutar una terminal en dicha carpeta
+
+9. Ejecutar el comando: "composer update --ignore-platform-reqs"
+
+10. Ejecutar el comando: "php artisan migrate"
+
+11. Ejecutar el comando: "php artisan serve"
+
+12. En el navegador escribir en la URL: "localhost:8000"
+
+13. Navegar a gusto
