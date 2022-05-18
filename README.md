@@ -14,7 +14,7 @@
 
 4. Ejecutar laragon
 
-5. Abrir phmyadmin y crear una base de datos vacía
+5. Abrir phmyadmin y crear una base de datos vacía con el nombre de "plataformas"
 
 6. clonar el repositorio en una carpeta vacía
 
