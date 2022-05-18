@@ -4,6 +4,8 @@
 
 2. Maria Clara Estrada Duque
 
+3. Daniel Seguro Ríos
+
 # Pasos para ejecutar este proyecto
 
 1. Tener composer instalado en el computador 
